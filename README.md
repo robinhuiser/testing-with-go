@@ -1,2 +1,4 @@
-# testing-with-go
-Notes for "Testing with Go" - an online course by Jon Calhoun
+# Testing with Go
+
+My notes & exercises during the online course "Testing with Go" - by Jon Calhoun.
+
